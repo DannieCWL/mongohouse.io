@@ -1,5 +1,5 @@
 FORMAT: 1A
-HOST: http://mongohouse.io/api
+HOST: http://mongohouse.io
 
 For detailed documentation, please visit https://mongohouse.docs.apiary.io
 

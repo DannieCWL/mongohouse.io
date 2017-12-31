@@ -47,7 +47,7 @@ mongohouse.io gets indexed on every 15th day of the month, for previous month's 
 ### To Get Started
 
 1. Create an mongohouse.io account: http://mongohouse.io/authentication/signup;
-2. Fill in the application form: https://goo.gl/forms/BuEqXh4VgHuUa2Fn2;
+2. Fill in the application form: https://goo.gl/forms/2YLHOcxxGrsfx28u1;
 3. Get comfortable with the APIs: https://mongohouse.docs.apiary.io/#.
 
 ### Project Status

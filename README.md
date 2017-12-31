@@ -9,7 +9,7 @@ For detailed documentation, please visit https://mongohouse.docs.apiary.io
 
 ### What is metadata, why is MongoHouse sharing only metadata?
 
-Wikipedia explaination of "Metadata":
+Wikipedia's explanation of "Metadata":
 
 > Metadata is "data [information] that provides information about other data".[1] Three distinct types of metadata exist: descriptive metadata, structural metadata, and administrative metadata.[2]
 > Descriptive metadata describes a resource for purposes such as discovery and identification. It can include elements such as title, abstract, author, and keywords.
@@ -21,12 +21,12 @@ This set of APIs does not provide the actual data, but rather the metadata of th
 ### This set of APIs is good for:
 
 1. building analytic applications;
-2. creating report using data aggregation and re-organization;
+2. creating a report using data aggregation and re-organization;
 3. feeding to AI framework to support market prediction and machine learning/traning.
 
 ### This set of APIs is NOT good for:
 
-However, this set of APIs is not suitable for creating application to display and look up for single data point. Some of the key information is intentionally hashed for a number of reasons: 
+However, this set of APIs is not suitable for creating an application to display and look up for single data point. Some of the key information is intentionally hashed for a number of reasons: 
 
 1. MongoHouse does not own the copyright of the data;
 2. MongoHouse can not guarantee the integrity of the data;
@@ -46,7 +46,7 @@ mongohouse.io gets indexed on every 15th day of the month, for previous month's 
 
 ### To Get Started
 
-1. Create an mongohouse.io account: http://mongohouse.io/authentication/signup;
+1. Create a mongohouse.io account: http://mongohouse.io/authentication/signup;
 2. Fill in the application form: https://goo.gl/forms/2YLHOcxxGrsfx28u1;
 3. Get comfortable with the APIs: https://mongohouse.docs.apiary.io/#.
 
@@ -54,7 +54,7 @@ mongohouse.io gets indexed on every 15th day of the month, for previous month's 
 
 This project is currently work-in-progress, and won't get heavily focused on until: 
 
-1. Strong interest drives extra funding in resource (engineering resource and infrastructure resource);
+1. Strong interest drives extra funding for resource (engineering resource and infrastructure resource);
 2. Proven useful and meaningful;
 3. Externally acquired/funded by third-party who is willing to take ownership/co-ownership of the project.
 

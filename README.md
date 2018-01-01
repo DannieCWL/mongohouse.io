@@ -18,11 +18,11 @@ Wikipedia's explanation of "Metadata":
 
 This set of APIs does not provide the actual data, but rather the metadata of the actual data. It provides an interface for developers to query the GTA's soldrecords. 
 
-### This set of APIs is good for:
+### This set of APIs is good for, for example:
 
 1. building analytic applications;
 2. creating a report using data aggregation and re-organization;
-3. feeding to AI framework to support market prediction and machine learning/traning.
+3. feeding an AI framework to do machine learning/traning and make market prediction. 
 
 ### This set of APIs is NOT good for:
 

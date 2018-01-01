@@ -3,7 +3,7 @@ HOST: http://mongohouse.io
 
 For detailed documentation, please visit https://mongohouse.docs.apiary.io
 
-![MongoHouse Data Sharing](https://lh5.googleusercontent.com/Z2QFljmH-2sDXimzL6v4n0qpPzuXbGgzPMs1aei54YGxbKSNJ1VazGTNDrZVE3Kx7giwXgUlHQ=w1910)
+![MongoHouse Data Sharing](https://pbs.twimg.com/media/DSZzUvOWAAEXeOw.jpg)
 
 
 

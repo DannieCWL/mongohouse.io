@@ -36,7 +36,7 @@ However, this set of APIs is not suitable for creating an application to display
 
 This API set is provided as a pilot test project, in order to learn: 
 
-1. if there the demand is strong;
+1. if the demand is strong;
 2. if the data set is meaningful with the selected fields;
 3. if there are any legal/privacy concerns regarding this platform of data decentralization.
 
